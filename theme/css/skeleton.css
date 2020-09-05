@@ -1,0 +1,16 @@
+
+/* Container */
+    .container {
+         position: relative;
+           margin-top: 0cm;
+           height: 100%;
+            padding: 0;
+           }
+    .container .column,
+    .container .columns {
+         float: left;
+          display: inline;
+           margin-left: 5px;
+            margin-right: 5px; }
+    .row  {
+         margin-bottom: 5px; }
